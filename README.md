@@ -1,12 +1,14 @@
-🔧 Selenium Test Automation for Opencart-awesomeqa Website
-🌐 Project Overview
+## 🔧 Selenium Test Automation for Opencart-awesomeqa Website
+
+### 🌐 Project Overview
 
 This project contains automated test scripts written in Python using Selenium WebDriver for the e-commerce website:
 
 🔗 AwesomeQA OpenCart 
 
 Opencart-awesomeqa is an online shopping platform that allows users to browse featured products, register, log in, search for items, and complete purchases. This site is great for practicing UI automation on real-world e-commerce workflows.
-✅ What This Project Covers
+
+### ✅ What This Project Covers
 
 I developed automated Python test scripts following the Page Object Model (POM) design pattern. The tests cover:
 
@@ -20,7 +22,7 @@ I developed automated Python test scripts following the Page Object Model (POM) 
 
     Navigation and page element verifications
 
-📄 Features and Pages Tested
+## 📄 Features and Pages Tested
 
 The following pages are implemented as Page Objects and tested:
 
