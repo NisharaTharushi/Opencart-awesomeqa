@@ -39,7 +39,8 @@ The following pages are implemented as Page Objects and tested:
     Search Page
 
 Each page has its own Page Object class and corresponding test scripts for modularity and maintainability.
-🧰 Tools & Technologies Used
+
+## 🧰 Tools & Technologies Used
 
     Language: Python 3.x
 
@@ -51,8 +52,9 @@ Each page has its own Page Object class and corresponding test scripts for modul
 
     Browser Drivers: ChromeDriver and GeckoDriver (Firefox)
 
+```
 
-📁 Project Structure
+## 📁 Project Structure
 
 Opencart-awesomeqa/
 │
