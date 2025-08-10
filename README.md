@@ -2,7 +2,7 @@
 
 ### 🌐 Project Overview
 
-This project contains automated test scripts written in Python using Selenium WebDriver for the e-commerce website:
+This project contains automated test scripts written in Python using Selenium WebDriver and the Page Object Model (POM) design pattern for the e-commerce website:
 
 🔗 [OpenCart Awesomeqa](https://awesomeqa.com/ui/)
 
