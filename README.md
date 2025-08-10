@@ -4,7 +4,7 @@
 
 This project contains automated test scripts written in Python using Selenium WebDriver for the e-commerce website:
 
-🔗 AwesomeQA OpenCart 
+🔗 [OpenCart Awesomeqa](https://awesomeqa.com/ui/)
 
 Opencart-awesomeqa is an online shopping platform that allows users to browse featured products, register, log in, search for items, and complete purchases. This site is great for practicing UI automation on real-world e-commerce workflows.
 
